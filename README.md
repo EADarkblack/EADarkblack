@@ -6,7 +6,7 @@ Soy un desarrollador web a quien le gusta aprender y retarse con proyectos nuevo
 
 **Sobre mi**
 
-- 💼 Desarrollador web en Orbys Group
+- 💼 Desarrollador web front end en Orbys Group
 
 - ❤️ Me gusta el desarrollo en base de componentes usando React
 
@@ -22,7 +22,7 @@ Soy un desarrollador web a quien le gusta aprender y retarse con proyectos nuevo
 <code><img height="20" src="./assets/vscode.png"></code>
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/EADarkblack/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EADarkblack&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Darkblack's github stats" /></a> | <a href="https://github.com/EADarkblack/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EADarkblack&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
