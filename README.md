@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/EADarkblack"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://github.com/EADarkblack"><img width="80%" src="https://c.tenor.com/t-rhS2nt_2sAAAAC/nyan-cat.gif" /></a></p>
 
 <br />
 
