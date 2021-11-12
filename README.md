@@ -21,7 +21,7 @@ Soy un desarrollador web a quien le gusta aprender y retarse con proyectos nuevo
 <code><img height="20" src="./assets/react.png"></code>
 <code><img height="20" src="./assets/vscode.png"></code>
 
-<h3>Github Stats</h3>
+**Mis Estadisticas**
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EADarkblack&count_private=true&show_icons=true&line_height=27&theme=dark"> | <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Darkblack&layout=compact&theme=dark">
 </div>
