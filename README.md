@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/EADarkblack"><img width="80%" src="https://c.tenor.com/t-rhS2nt_2sAAAAC/nyan-cat.gif" /></a></p>
+<p align="center"><a href="https://github.com/EADarkblack"><img width="80%" height="50px" src="https://c.tenor.com/t-rhS2nt_2sAAAAC/nyan-cat.gif" /></a></p>
 
 <br />
 
@@ -25,7 +25,7 @@ Soy un desarrollador web a quien le gusta aprender y retarse con proyectos nuevo
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EADarkblack&count_private=true&show_icons=true&line_height=27&theme=dark">
   
-  |-----------------------------|----------------------------------|
+  |-----------------------------|-------------------------------|
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Darkblack&layout=compact&theme=dark">
 </div>
