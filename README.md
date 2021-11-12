@@ -2,7 +2,7 @@
 
 <br />
 
-Soy un apasionado por el desarrollo web de Colombia Co
+Soy un desarrollador web a quien le gusta aprender y retarse con proyectos nuevos.
 
 **Sobre mi**
 
