@@ -22,17 +22,17 @@ Soy un desarrollador web a quien le gusta aprender y retarse con proyectos nuevo
 <code><img height="20" src="./assets/vscode.png"></code>
 
 
-| <a href="https://github.com/EADarkblack/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EADarkblack&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Darkblack's github stats" /></a> | <a href="https://github.com/EADarkblack/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EADarkblack&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/EADarkblack/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EADarkblack&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Darkblack's github stats" /></a> | <a href="https://github.com/EADarkblack/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EADarkblack&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 
 <a href="https://github.com/EADarkblack/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EADarkblack&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EADarkblack&repo=github-readme-stats&theme=dark" />
 </a>
 <a href="https://github.com/EADarkblack/EADarkblack.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EADarkblack&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EADarkblack&repo=anuraghazra.github.io&theme=dark" />
 </a>
 
 <br />
