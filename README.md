@@ -2,9 +2,9 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+Soy un desarrollador web fullstack de Colombia Co
 
-**About me**
+**Sobre mi**
 
 - 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
 
