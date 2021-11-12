@@ -35,6 +35,12 @@ Soy un desarrollador web a quien le gusta aprender y retarse con proyectos nuevo
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EADarkblack&repo=anuraghazra.github.io&theme=dark" />
 </a>
 
+<h3>Github Stats</h3>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EADarkblack&count_private=true&show_icons=true&line_height=27&theme=dracula">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@EADarkblack&layout=compact&theme=dracula">
+</div>
+
 <br />
 <br />
 
