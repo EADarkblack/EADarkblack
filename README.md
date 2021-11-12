@@ -8,7 +8,7 @@ Soy un desarrollador web a quien le gusta aprender y retarse con proyectos nuevo
 
 - 💼 Desarrollador web en Orbys Group
 
-- ❤️ Me gusta el desarrollo en base en de componentes usando React
+- ❤️ Me gusta el desarrollo en base de componentes usando React
 
 
 
