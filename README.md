@@ -2,7 +2,7 @@
 
 <br />
 
-Soy un desarrollador web fullstack de Colombia Co
+Soy un apasionado por el desarrollo web de Colombia Co
 
 **Sobre mi**
 
