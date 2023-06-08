@@ -6,11 +6,7 @@ Soy un desarrollador web a quien le gusta aprender y retarse con proyectos nuevo
 
 **Sobre mi**
 
-- 💼 Desarrollador web front end en Orbys Group
-
 - ❤️ Me gusta el desarrollo en base de componentes usando React
-
-
 
 **Lenguajes y Herramientas:**
 
