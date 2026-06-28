@@ -2,8 +2,6 @@
 
 ### Frontend Developer | React | TypeScript | JavaScript | Next.js
 
-Building modern, scalable, and maintainable web applications.
-
 I'm a Frontend Developer with over **4 years of professional experience** building and maintaining enterprise web applications using **React, TypeScript, and JavaScript**.
 
 Throughout my career, I've contributed to projects in the **insurance, aviation, and technology industries**, delivering scalable user interfaces, implementing new features, optimizing application performance, and improving user experience.
