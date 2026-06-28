@@ -2,6 +2,8 @@
 
 ### Frontend Developer | React | TypeScript | JavaScript | Next.js
 
+Building modern, scalable, and maintainable web applications.
+
 I'm a Frontend Developer with over **4 years of professional experience** building and maintaining enterprise web applications using **React, TypeScript, and JavaScript**.
 
 Throughout my career, I've contributed to projects in the **insurance, aviation, and technology industries**, delivering scalable user interfaces, implementing new features, optimizing application performance, and improving user experience.
@@ -15,9 +17,9 @@ I'm passionate about building modern web applications, writing clean and maintai
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
 
 ### Styling
 
@@ -33,7 +35,7 @@ I'm passionate about building modern web applications, writing clean and maintai
 
 ---
 
-## 💼 Professional Experience
+## 💼 Professional Highlights
 
 * Frontend Developer with 4+ years of professional experience.
 * Enterprise web application development.
