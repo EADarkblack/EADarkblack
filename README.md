@@ -1,6 +1,6 @@
 # Hi there, I'm Wilmar 👋
 
-### Frontend Developer | React | TypeScript | Next.js
+### Frontend Developer | React | TypeScript | JavaScript | Next.js
 
 I'm a Frontend Developer with over **4 years of professional experience** building and maintaining enterprise web applications using **React, TypeScript, and JavaScript**.
 
