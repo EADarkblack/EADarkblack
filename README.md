@@ -43,18 +43,6 @@ I'm passionate about building modern web applications, writing clean and maintai
 * REST API integrations.
 * Agile methodologies (Scrum & Kanban).
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EADarkblack&show_icons=true&count_private=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EADarkblack&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
 ## 📫 Connect with Me
 
 * 💼 LinkedIn: https://linkedin.com/in/wilmar-miguez
